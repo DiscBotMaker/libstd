@@ -1,1 +1,2 @@
-# libdbm
+# libstd
+Standard library
